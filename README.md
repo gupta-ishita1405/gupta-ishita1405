@@ -1,56 +1,25 @@
 # Hey, I'm Ishita 👋
 
-### `Full-Stack Developer × AI Explorer × Problem Solver`
+I'm a Computer Science student who likes building things, learning new stuff, and occasionally breaking my code while doing it :)
 
-I build **full-stack applications, experiment with AI, and turn ideas into interactive digital experiences.**
+I mostly work with **JavaScript, React, Node.js, Express, MongoDB**, and **C/C++**.
 
-Currently, I'm in my **C/C++ + DSA era** — strengthening my fundamentals and problem-solving skills while exploring **AI-powered full-stack development** with the **Gemini API**.
+Right now, I'm spending a lot of time on **C++, DSA, and problem solving**, while slowly getting deeper into **AI/ML and Generative AI**.
 
-### ⚡ What I'm Building With
+I also like playing around with AI APIs like **Gemini** and adding AI features to the things I build.
 
-**Frontend**
+I enjoy making projects that are not just functional, but actually feel interesting to use.
 
-* HTML • CSS • JavaScript
-* React
+### Currently learning
 
-**Backend**
+`C++` `DSA` `MERN` `AI/ML` `GenAI`
 
-* Node.js • Express.js
-* REST APIs
-* JWT Authentication
-* MongoDB
+### A few things I like
 
-**AI**
+- Building random ideas  
+- AI & technology  
+- Solving problems  
+- Creative projects  
+- Anime & manga  
 
-* Gemini API
-* AI-powered features & integrations
-* Generative AI experiments
-
-**Problem Solving**
-
-* C
-* C++
-* Data Structures & Algorithms
-* LeetCode & logical problem solving
-
-### 🌱 Currently Learning
-
-`C++` → `DSA` → `Advanced JavaScript` → `MERN` → `AI/GenAI`
-
-I'm especially interested in the intersection of **AI + software engineering + creative technology**.
-
-### 🚀 My Philosophy
-
-I don't want to build another ordinary CRUD application.
-
-I want to understand **how things work**, break them apart, rebuild them better, and eventually create products that feel like they came from the future.
-
-### 🎯 The Bigger Picture
-
-**Software Engineer → AI/ML Engineer → AI Specialist → Builder**
-
-Currently learning one concept, solving one problem, and building one project at a time.
-
----
-
-⭐ *If you're interested in AI, full-stack development, or building weird ambitious things — let's connect.*
+Still learning. Still building. Still figuring things out. 
