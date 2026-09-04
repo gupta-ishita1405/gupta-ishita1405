@@ -21,5 +21,3 @@ I enjoy making projects that are not just functional, but actually feel interest
 - Solving problems  
 - Creative projects  
 - Anime & manga  
-
-Still learning. Still building. Still figuring things out. 
