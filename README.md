@@ -2,7 +2,7 @@
 
 I'm a Computer Science student who likes building things, learning new stuff, and occasionally breaking my code while doing it :)
 
-I mostly work with **JavaScript, React, Node.js, Express, MongoDB**, and **C/C++**.
+I mostly work with **JavaScript,  TypeScript, React, Node.js, Express, MongoDB**, and **C/C++**.
 
 Right now, I'm spending a lot of time on **C++, DSA, and problem solving**, while slowly getting deeper into **AI/ML and Generative AI**.
 
