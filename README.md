@@ -1,4 +1,4 @@
-# Hey, I'm Ishita Gupta 👋
+# Hey, I'm Ishita Gupta 
 
 I'm a Computer Science student who likes building things, learning new stuff, and occasionally breaking my code while doing it :)
 
